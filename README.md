@@ -19,5 +19,6 @@
 ## Papers
 1. [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 2. [Graph Transformer NETWORK](https://arxiv.org/abs/1911.06455)
+3. [Everything is Connected: Graph Neural Networks](https://arxiv.org/abs/2301.08210)
 
 
